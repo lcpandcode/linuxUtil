@@ -9,6 +9,7 @@ java -jar linux-util-1.0-SNAPSHOT "cat log_strategy.log | grep 'abc'" "111.111.1
 ```
 上面命令的意思：对用户/密码为root/root， ssh协议端口为22 ，远程主机111.111.111,111.111.112的集群执行cat log_strategy.log | grep 'abc'命令
 
+也可以直接下载target下的jar包进行运行
 
 
 
